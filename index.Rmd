@@ -4,11 +4,11 @@ author: "Manasi Anand"
 date: "22/02/2021"
 output: html_document
 ---
-Hello.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-This is our website
+
 
 ## R Markdown
 

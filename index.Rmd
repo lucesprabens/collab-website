@@ -1,6 +1,6 @@
 ---
 title: "Website"
-author: "Manasi Anand"
+author: "Manasi Anand and Luc Esprabens"
 date: "22/02/2021"
 output: html_document
 ---
